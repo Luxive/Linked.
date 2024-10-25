@@ -118,16 +118,16 @@
         <p>Join Discord or gay.</p>
     </div>
 
-<div id="proxies" class="main-content">
+<div id="prox1es" class="main-content">
         <h1>Games</h1>
-        <button class="accordion">=</button>
+        <button class="accordion"></button>
         <div class="panel">
             <a href="#">Link 1 for RammerHead</a>
             <a href="#">Link 2 for RammerHead</a>
             <a href="#">Link 3 for RammerHead</a>
         </div>
  <h1>Proxies</h1>
-        <button class="accordion"</button>
+        <button class="accordion">Rammerhead</button>
         <div class="panel">
             <a href="#">Link 1 for RammerHead</a>
             <a href="#">Link 2 for RammerHead</a>
