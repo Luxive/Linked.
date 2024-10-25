@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -95,7 +94,6 @@
         <a href="#">Credits</a>
         <a href="#">Make a Proxy</a>
     </div>
-
 <!-- Main content -->
 <div class="main-content">
         <h1>all working links, most unblocked</h1>
@@ -116,7 +114,7 @@
 
 </body>
 </html>
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -223,7 +221,7 @@ footer {
 <body>
 
 <!-- Sidebar -->
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
