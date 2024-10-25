@@ -95,7 +95,7 @@
 <!-- Main content -->
 <div class="main-content">
         <h1>Most links should work if not fill out the form below</h1>
-        <h3><a href="Join discord" target="_blank">Join discord</a> Soon</h3>
+        <h3><a href="Join discord" target="_blank">Join discord</a> LINKED BYPASSED</h3>
         <p>Updating this site if I find anything</p>
         <p>Hi I am linked I made this website to have bypassed things.</p>
         <p>Preferably, I would like this site to be spread as much as possible so do NOT be afraid to disseminate. I encourage you to contribute, and I might even give you credit on the site.</p>
