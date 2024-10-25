@@ -99,7 +99,7 @@
         <p>Updating this site if I find anything</p>
         <p>Hi I am linked I made this website to have bypassed things.</p>
         <p>Preferably, I would like this site to be spread as much as possible so do NOT be afraid to disseminate. I encourage you to contribute, and I might even give you credit on the site.</p>
-        <p>Fill out the <a href="#">form</a> below if you have any recommendations or complaints!</p>
+        <p>Fill out the <a href="#">form</a> below if you have any suggestions or if you want me to take down anything!</p>
 
 <div class="notice">
             I AM NOT RESPONSIBLE FOR ANY VIRUS OR DAMAGE DONE TO YOUR DEVICE
