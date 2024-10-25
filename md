@@ -14,31 +14,31 @@
             color: #333;
         }
 
-        header {
+header {
             background-color: #333;
             color: white;
             padding: 1rem;
             text-align: center;
         }
 
-        nav {
+nav {
             background-color: #555;
             padding: 0.5rem;
             text-align: center;
         }
 
-        nav a {
+nav a {
             color: white;
             margin: 0 1rem;
             text-decoration: none;
         }
 
-        section {
+section {
             padding: 2rem;
             text-align: center;
         }
 
-        footer {
+footer {
             background-color: #333;
             color: white;
             text-align: center;
@@ -48,7 +48,7 @@
             bottom: 0;
         }
 
-        .btn {
+.btn {
             background-color: #333;
             color: white;
             padding: 0.5rem 1rem;
@@ -58,7 +58,7 @@
             display: inline-block;
         }
 
-        .btn:hover {
+.btn:hover {
             background-color: #555;
         }
     </style>
@@ -68,18 +68,18 @@
         <h1>Welcome to linked page!</h1>
     </header>
 
-    <nav>
+<nav>
         <a href="#about">About Me</a>
         <a href="#projects">Projects</a>
         <a href="#contact">Contact</a>
     </nav>
 
-    <section id="about">
+<section id="about">
         <h2>About Me</h2>
         <p>Hi! I'm linked, a developer passionate about coding and sharing knowledge. Welcome to my GitHub page where I showcase my projects and tutorials.</p>
     </section>
 
-    <section id="projects">
+<section id="projects">
         <h2>Projects</h2>
         <p>Here are a few projects I've been working on:</p>
         <ul>
@@ -89,12 +89,12 @@
         </ul>
     </section>
 
-    <section id="contact">
+<section id="contact">
         <h2>Contact</h2>
         <p>If you'd like to get in touch, feel free to email me at: <a href="santio0302@gmail.com">youremail@example.com</a></p>
     </section>
 
-    <footer>
+<footer>
         <p>&copy; 2024 My GitHub Page | Built with HTML</p>
     </footer>
 </body>
