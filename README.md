@@ -151,6 +151,7 @@
             <a href="https://precisionclient-88k.pages.dev/">Minecraft link 9</a>
         </div>
         <button class="accordion">Google sites</button>
+        <div class="panel">
     <a href="https://sites.google.com/site/tyronesgameshack/">Tyrones games link 1</a>
     <a href="https://sites.google.com/site/unblockedgames66ez/">Unblocked games 66 link 2</a>
     <a href="https://sites.google.com/site/unblockedgame76/">Unblocked games 76 link 3</a>
