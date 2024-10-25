@@ -129,14 +129,26 @@
 
 <div id="games" class="main-content">
         <h1>Games Links</h1>
-        <button class="accordion">Popular Games</button>
+        <button class="accordion">Extreme math</button>
         <div class="panel">
-            <a href="#">Game Link 1</a>
-            <a href="#">Game Link 2</a>
+            <a href="https://tutoring4free.org/">Extreme math Link 1</a>
+            <a href="https://easytutoring.app/">Extreme math link 2</a>
+            <a href="https://extrememath.dev/">Extreme math link 3</a>
+            <a href="https://simply-history.xyz/#google_vignette">Extreme math link 4</a>
+            <a href="https://extrememath.org/">Extreme math link 5</a>
+            <a href="https://simple-education.xyz/#google_vignette">Extreme math link 6</a>a>
         </div>
-        <button class="accordion">New Games</button>
+        <button class="accordion">Minecraft</button>
         <div class="panel">
-            <a href="#">Game Link 1</a>
+            <a href="https://g.deev.is/">Minecraft link 1</a>
+            <a href="https://eaglercraft.q13x.com/">Minecraft link 2</a>
+            <a href="https://ubg100.github.io/eaglercraft.html">Minecraft link 3</a>
+            <a href="https://burritoedition.github.io/emu/Minecraft/web/index.html">Minecraft link 4</a>
+            <a href=https://reslauncher.vercel.app/">Minecraft link 5</a>
+            <a href="https://sd592g.github.io/zj684od4lfg/">Minecraft link 6</a>
+            <a href="https://eagler.almondnet.cn/Nebula.html">Minecraft link 7</a>
+            <a href="https://mess.eu.org/">Minecraft link 8</a>
+            <a href="https://precisionclient-88k.pages.dev/">Minecraft link 9</a>
         </div>
 </div>
 
