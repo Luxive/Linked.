@@ -107,7 +107,7 @@
 
  <footer>
             <p>&copy; 2024 Linked Bypassed | All Rights Reserved</p>
-            <p>&copy; By using this website you are agreeing that I am not responsible for any damages done to your device | All Rights Reserved</p>
+            <p>&copy; By using this website you are agreeing that I am not responsible for any damages done to your device</p>
         </footer>
     </div>
 
