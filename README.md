@@ -107,7 +107,6 @@
 
  <footer>
             <p>&copy; 2024 Linked Bypassed | All Rights Reserved</p>
-            <p>&copy; By using this website you are agreeing that I am not responsible for any damages done to your device</p>
         </footer>
     </div>
 
@@ -392,6 +391,7 @@ footer {
         </div>
 
 <footer>
+            <p>&copy; By using this website you are agreeing that by using this website I am not responsible for any damages done to your device</p>
             <p>&copy; 2024 Linked Bypassed | All Rights Reserved</p>
         </footer>
     </div>
