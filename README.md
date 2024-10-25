@@ -356,16 +356,16 @@ footer {
 <!-- Accordion with Links -->
 <button class="accordion">\Interstellar</button>
         <div class="panel">
-            <a href="#">Link 1 for RammerHead</a>
-            <a href="#">Link 2 for RammerHead</a>
-            <a href="#">Link 3 for RammerHead</a>
+            <a href="#">Soon</a>
+            <a href="#">Soon</a>
+            <a href="#">Soon</a>
         </div>
 
         <button class="accordion">Interstellar</button>
 <div class="panel">
-            <a href="#">Link 1 for Interstellar</a>
-            <a href="#">Link 2 for Interstellar</a>
-            <a href="#">Link 3 for Interstellar</a>
+            <a href="#">Soon</a>
+            <a href="#">Soon</a>
+            <a href="#">Soon</a>
         </div>
 
 <button class="accordion">Nebula</button>
@@ -377,20 +377,20 @@ footer {
 
 <button class="accordion">Sodium</button>
         <div class="panel">
-            <a href="#">Link 1 for Sodium</a>
-            <a href="#">Link 2 for Sodium</a>
-            <a href="#">Link 3 for Sodium</a>
+            <a href="#">Soon</a>
+            <a href="#">Soon</a>
+            <a href="#">Soon</a>
         </div>
 
 <button class="accordion">Deep Unblocker</button>
         <div class="panel">
-            <a href="#">Link 1 for Deep Unblocker</a>
-            <a href="#">Link 2 for Deep Unblocker</a>
-            <a href="#">Link 3 for Deep Unblocker</a>
+            <a href="#">Soon</a>
+            <a href="#">Soon</a>
+            <a href="#">Soon</a>
         </div>
 
 <footer>
-            <p>&copy; 2024 Twig's Utilities | All Rights Reserved</p>
+            <p>&copy; 2024 Linked Bypassed | All Rights Reserved</p>
         </footer>
     </div>
 
