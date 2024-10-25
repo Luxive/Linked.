@@ -346,7 +346,8 @@ footer {
         <a href="#">Unlocked</a>
         <a href="#">Credits</a>
         <a href="#">Make a Proxy</a>
-    </div>
+        <a href="#">Educational Stuff</a>
+</div>
 
     <!-- Main content -->
 <div class="main-content">
