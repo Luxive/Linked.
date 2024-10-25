@@ -13,7 +13,7 @@
 
 =/* Sidebar styles */
         .sidebar {
-            height: 150vh;
+            height: 50vh;
             width: 250px;
             position: fixed;
             background-color: #2c2c2c;
@@ -238,7 +238,7 @@ footer {
         .sidebar {
             height: 100vh;
             width: 250px;
-            position: fixed;
+            position: lose;
             background-color: #2c2c2c;
             padding: 20px;
         }
