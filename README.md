@@ -83,7 +83,7 @@
 
 =<!-- Sidebar -->
     <div class="sidebar">
-        <h2>Twig's Utilities</h2>
+        <h2>Linked Bypassed</h2>
         <a href="#">Home</a>
         <a href="#">Prox1es</a>
         <a href="#">Games Links</a>
