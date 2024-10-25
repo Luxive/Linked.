@@ -13,7 +13,7 @@
 
 =/* Sidebar styles */
         .sidebar {
-            height: 100vh;
+            height: 150vh;
             width: 250px;
             position: fixed;
             background-color: #2c2c2c;
@@ -356,8 +356,8 @@ footer {
         <h3><a href="Soon" target="_blank">Soon</h3>
 
 <!-- Accordion with Links -->
-<button class="accordion">\Interstellar</button>
-        <div class="panel">
+     <button class="accordion">\Interstellar</button>
+<div class="panel">
             <a href="#">Soon</a>
             <a href="#">Soon</a>
             <a href="#">Soon</a>
