@@ -94,7 +94,7 @@
     </div>
 <!-- Main content -->
 <div class="main-content">
-        <h1>all working links, most unblocked</h1>
+        <h1>Most links should work if not fill out the form below</h1>
         <h3><a href="Join discord" target="_blank">Soon</a> Soon</h3>
         <p>Updating this site if I find anything</p>
         <p>Hi I am linked I made this website to have bypassed things.</p>
