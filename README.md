@@ -412,4 +412,3 @@ footer {
                 }
             });
         }
-    </script>
