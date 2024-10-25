@@ -95,7 +95,7 @@
 <!-- Main content -->
 <div class="main-content">
         <h1>all working links, most unblocked</h1>
-        <h3><a href="Soon" target="_blank">Soon</a> Soon</h3>
+        <h3><a href="Join discord" target="_blank">Soon</a> Soon</h3>
         <p>Updating this site if I find anything</p>
         <p>Hi I am linked I made this website to have bypassed things.</p>
         <p>Preferably, I would like this site to be spread as much as possible so do NOT be afraid to disseminate. I encourage you to contribute, and I might even give you credit on the site.</p>
@@ -338,7 +338,7 @@ footer {
 
 <!-- Sidebar -->
 <div class="sidebar">
-        <h2>Twig's Utilities</h2>
+        <h2>Linked Bypassed</h2>
         <a href="#">Home</a>
         <a href="#">Prox1es</a>
         <a href="#">Games Links</a>
@@ -411,6 +411,3 @@ footer {
             });
         }
     </script>
-
-</body>
-</html>
