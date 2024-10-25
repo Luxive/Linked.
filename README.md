@@ -104,11 +104,10 @@
     <div class="sidebar">
         <h2>LINKED!</h2>
         <a onclick="showSection('home')">Home</a>
-        <a onclick="showSection('proxies')">Pr0x1es</a>
-        <a onclick="showSection('blocked')">Pr0x1es if the first is blocked</a>
-        <a onclick="showSection('games')">Games Links</a>
-        <a onclick="showSection('movies')">Movies/TV+Music</a>
-        <a onclick="showSection('multipurpose')">Multi Purpose Pages</a>
+        <a onclick="showSection('proxies')">Prox1es</a>
+        <a onclick="showSection('games')">Games</a>
+        <a onclick="showSection('movies')">Movies</a>
+        <a onclick="showSection('multipurpose')">Educational</a>
         <a onclick="showSection('coder')">Coder Stuff</a>
         <a onclick="showSection('credits')">Credits</a>
         <a onclick="showSection('proxy')">Make a Proxy</a>
@@ -120,8 +119,8 @@
     </div>
 
 <div id="proxies" class="main-content">
-        <h1>Proxies</h1>
-        <button class="accordion">RammerHead</button>
+        <h1>Games</h1>
+        <button class="accordion">=</button>
         <div class="panel">
             <a href="#">Link 1 for RammerHead</a>
             <a href="#">Link 2 for RammerHead</a>
@@ -143,23 +142,23 @@
     </div>
 
 <div id="blocked" class="main-content">
-        <h1>Pr0x1es if the first one is blocked</h1>
+        <h1>Prox1es</h1>
         <p>Links to alternative proxies.</p>
 </div>
 
 <div id="games" class="main-content">
-        <h1>Games Links</h1>
+        <h1>Games</h1>
         <p>Links to games coming soon...</p>
     </div>
 
 <div id="movies" class="main-content">
-        <h1>Movies/TV+Music</h1>
+        <h1>Movies</h1>
         <p>Links to movies, TV shows, and music coming soon...</p>
     </div>
 
  <div id="multipurpose" class="main-content">
-        <h1>Multi Purpose Pages</h1>
-        <p>Links to multipurpose pages coming soon...</p>
+        <h1>Educational</h1>
+        <p>Links coming soon</p>
     </div>
 
 <div id="coder" class="main-content">
@@ -178,7 +177,7 @@
     </div>
 
 <footer>
-        <p>&copy; 2024 Twig's Utilities | All Rights Reserved</p>
+        <p>&copy; 2024 LINKED! | All Rights Reserved</p>
     </footer>
 
 <script>
