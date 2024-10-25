@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -235,7 +234,7 @@
     </div>
 
 <footer>
-        <p>&copy; 2024 Twig's Utilities | All Rights Reserved</p>
+        <p>&copy; 2024 LINKED! | All Rights Reserved</p>
     </footer>
 
 <script>
