@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Twig's Utilities</title>
+    <title>LINKED!</title>
     <style>
         body {
             margin: 0;
@@ -102,7 +102,7 @@
 </head>
 <body>
     <div class="sidebar">
-        <h2>Twig's Utilities</h2>
+        <h2>LINKED!</h2>
         <a onclick="showSection('home')">Home</a>
         <a onclick="showSection('proxies')">Pr0x1es</a>
         <a onclick="showSection('blocked')">Pr0x1es if the first is blocked</a>
@@ -115,8 +115,8 @@
     </div>
 
    <div id="home" class="main-content active">
-        <h1>Welcome to Twig's Utilities</h1>
-        <p>Select a category from the sidebar to get started.</p>
+        <h1>Welcome to Linked!</h1>
+        <p>Join Discord or gay.</p>
     </div>
 
 <div id="proxies" class="main-content">
@@ -127,7 +127,13 @@
             <a href="#">Link 2 for RammerHead</a>
             <a href="#">Link 3 for RammerHead</a>
         </div>
-
+ <h1>Proxies</h1>
+        <button class="accordion"</button>
+        <div class="panel">
+            <a href="#">Link 1 for RammerHead</a>
+            <a href="#">Link 2 for RammerHead</a>
+            <a href="#">Link 3 for RammerHead</a>
+        </div>
 <button class="accordion">Interstellar</button>
 <div class="panel">
             <a href="#">Link 1 for Interstellar</a>
