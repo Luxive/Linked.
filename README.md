@@ -102,11 +102,12 @@
         <p>Fill out the <a href="#">form</a> below if you have any suggestions or if you want me to take down anything!</p>
 
 <div class="notice">
-            I AM NOT RESPONSIBLE FOR ANY VIRUS OR DAMAGE DONE TO YOUR DEVICE
+            Have Fun!
         </div>
 
  <footer>
             <p>&copy; 2024 Linked Bypassed | All Rights Reserved</p>
+            <p>&copy; By using this website you are agreeing that I am not responsible for any damages done to your device | All Rights Reserved</p>
         </footer>
     </div>
 
