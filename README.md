@@ -376,9 +376,9 @@ footer {
 
 <button class="accordion">Nebula</button>
         <div class="panel">
-            <a href="#">Link 1 for Nebula</a>
-            <a href="#">Link 2 for Nebula</a>
-            <a href="#">Link 3 for Nebula</a>
+            <a href="https://sparkledog.happymosaic.ru/">Link 1 for Nebula</a>
+            <a href="https://4lung.powergrass.ro/">Link 2 for Nebula</a>
+            <a href="https://sparkledog.happymosaic.ru/">Link 3 for Nebula</a>
         </div>
 
 <button class="accordion">Sodium</button>
