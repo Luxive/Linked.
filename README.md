@@ -191,17 +191,17 @@ footer p {
 <h2 class="section-title">Free Movies</h2>
 <div class="card-grid">
             <div class="card">
-<img src="https://via.placeholder.com/200x150" alt="Movie 1">
+<img src="https://via.placeholder.com/200x150" alt="HDTODAY1">
                 <h3>Movie 1</h3>
                 <a href="https://yourmovie1link.com" target="_blank">Watch Now</a>
 </div>
 <div class="card">
-<img src="https://via.placeholder.com/200x150" alt="Movie 2">
+<img src="https://via.placeholder.com/200x150" alt="HDTODAY2">
  <h3>Movie 2</h3>
 <a href="https://yourmovie2link.com" target="_blank">Watch Now</a>
 </div>
 <div class="card">
-<img src="https://via.placeholder.com/200x150" alt="Movie 3">
+<img src="https://via.placeholder.com/200x150" alt="SOAP2DAY">
 <h3>Movie 3</h3>
  <a href="https://yourmovie3link.com" target="_blank">Watch Now</a>
 </div>
