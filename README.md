@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LINKED!</title>
+    <title>Twig's Utilities</title>
     <style>
         body {
             margin: 0;
@@ -102,39 +102,33 @@
 </head>
 <body>
     <div class="sidebar">
-        <h2>LINKED!</h2>
+        <h2>Twig's Utilities</h2>
         <a onclick="showSection('home')">Home</a>
         <a onclick="showSection('proxies')">Prox1es</a>
         <a onclick="showSection('games')">Games</a>
         <a onclick="showSection('movies')">Movies</a>
-        <a onclick="showSection('multipurpose')">Educational</a>
+        <a onclick="showSection('multipurpose')">Educations</a>
         <a onclick="showSection('coder')">Coder Stuff</a>
         <a onclick="showSection('credits')">Credits</a>
         <a onclick="showSection('proxy')">Make a Proxy</a>
     </div>
 
-   <div id="home" class="main-content active">
-        <h1>Welcome to Linked!</h1>
-        <p>Join Discord or gay.</p>
+<div id="home" class="main-content active">
+        <h1>Welcome to Twig's Utilities</h1>
+        <p>Select a category from the sidebar to get started.</p>
     </div>
 
-<div id="prox1es" class="main-content">
-        <h1>Games</h1>
-        <button class="accordion"></button>
+<div id="proxies" class="main-content">
+        <h1>Proxies</h1>
+        <button class="accordion">RammerHead</button>
         <div class="panel">
             <a href="#">Link 1 for RammerHead</a>
             <a href="#">Link 2 for RammerHead</a>
             <a href="#">Link 3 for RammerHead</a>
         </div>
- <h1>Proxies</h1>
-        <button class="accordion">Rammerhead</button>
-        <div class="panel">
-            <a href="#">Link 1 for RammerHead</a>
-            <a href="#">Link 2 for RammerHead</a>
-            <a href="#">Link 3 for RammerHead</a>
-        </div>
+
 <button class="accordion">Interstellar</button>
-<div class="panel">
+        <div class="panel">
             <a href="#">Link 1 for Interstellar</a>
             <a href="#">Link 2 for Interstellar</a>
             <a href="#">Link 3 for Interstellar</a>
@@ -142,42 +136,106 @@
     </div>
 
 <div id="blocked" class="main-content">
-        <h1>Prox1es</h1>
-        <p>Links to alternative proxies.</p>
-</div>
+        <h1>Pr0x1es if the first one is blocked</h1>
+        <button class="accordion">Backup Proxy 1</button>
+        <div class="panel">
+            <a href="#">Link 1 for Backup Proxy 1</a>
+            <a href="#">Link 2 for Backup Proxy 1</a>
+        </div>
+
+<button class="accordion">Backup Proxy 2</button>
+        <div class="panel">
+            <a href="#">Link 1 for Backup Proxy 2</a>
+            <a href="#">Link 2 for Backup Proxy 2</a>
+        </div>
+    </div>
 
 <div id="games" class="main-content">
-        <h1>Games</h1>
-        <p>Links to games coming soon...</p>
-    </div>
+        <h1>Games Links</h1>
+        <button class="accordion">Action Games</button>
+        <div class="panel">
+            <a href="#">Link 1 for Action Games</a>
+            <a href="#">Link 2 for Action Games</a>
+        </div>
+
+<button class="accordion">Puzzle Games</button>
+        <div class="panel">
+            <a href="#">Link 1 for Puzzle Games</a>
+            <a href="#">Link 2 for Puzzle Games</a>
+        </div>
+</div>
 
 <div id="movies" class="main-content">
-        <h1>Movies</h1>
-        <p>Links to movies, TV shows, and music coming soon...</p>
+        <h1>Movies/TV+Music</h1>
+        <button class="accordion">Movies</button>
+        <div class="panel">
+            <a href="#">Link 1 for Movies</a>
+            <a href="#">Link 2 for Movies</a>
+        </div>
+
+<button class="accordion">TV Shows</button>
+        <div class="panel">
+            <a href="#">Link 1 for TV Shows</a>
+            <a href="#">Link 2 for TV Shows</a>
+        </div>
+
+<button class="accordion">Music</button>
+        <div class="panel">
+            <a href="#">Link 1 for Music</a>
+            <a href="#">Link 2 for Music</a>
+        </div>
     </div>
 
- <div id="multipurpose" class="main-content">
-        <h1>Educational</h1>
-        <p>Links coming soon</p>
+<div id="multipurpose" class="main-content">
+        <h1>Multi Purpose Pages</h1>
+        <button class="accordion">Page 1</button>
+        <div class="panel">
+            <a href="#">Link 1 for Page 1</a>
+            <a href="#">Link 2 for Page 1</a>
+        </div>
+
+<button class="accordion">Page 2</button>
+        <div class="panel">
+            <a href="#">Link 1 for Page 2</a>
+            <a href="#">Link 2 for Page 2</a>
+        </div>
     </div>
 
 <div id="coder" class="main-content">
         <h1>Coder Stuff</h1>
-        <p>Resources for coders.</p>
+        <button class="accordion">HTML/CSS Resources</button>
+        <div class="panel">
+            <a href="#">Link 1 for HTML/CSS</a>
+            <a href="#">Link 2 for HTML/CSS</a>
+        </div>
+
+<button class="accordion">JavaScript Resources</button>
+        <div class="panel">
+            <a href="#">Link 1 for JavaScript</a>
+            <a href="#">Link 2 for JavaScript</a>
+        </div>
     </div>
 
 <div id="credits" class="main-content">
         <h1>Credits</h1>
-        <p>Credit to all contributors.</p>
+        <button class="accordion">Contributors</button>
+        <div class="panel">
+            <a href="#">Link 1 for Contributors</a>
+            <a href="#">Link 2 for Contributors</a>
+        </div>
     </div>
 
 <div id="proxy" class="main-content">
         <h1>Make a Proxy</h1>
-        <p>How to make your own proxy coming soon...</p>
+        <button class="accordion">Proxy Setup Guide</button>
+        <div class="panel">
+            <a href="#">Link 1 for Proxy Guide</a>
+            <a href="#">Link 2 for Proxy Guide</a>
+        </div>
     </div>
 
 <footer>
-        <p>&copy; 2024 LINKED! | All Rights Reserved</p>
+        <p>&copy; 2024 Twig's Utilities | All Rights Reserved</p>
     </footer>
 
 <script>
@@ -190,19 +248,4 @@
         }
 
         var acc = document.getElementsByClassName("accordion");
-        var i;
-
-        for (i = 0; i < acc.length; i++) {
-            acc[i].addEventListener("click", function() {
-                this.classList.toggle("active");
-                var panel = this.nextElementSibling;
-                if (panel.style.display === "block") {
-                    panel.style.display = "none";
-                } else {
-                    panel.style.display = "block";
-                }
-            });
-        }
-    </script>
-</body>
-</html>
+        var
