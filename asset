@@ -64,7 +64,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to My GitHub Page!</h1>
+        <h1>Welcome to linked</h1>
     </header>
 
     <nav>
@@ -75,22 +75,13 @@
 
     <section id="about">
         <h2>About Me</h2>
-        <p>Hi! I'm [Your Name], a developer passionate about coding and sharing knowledge. Welcome to my GitHub page where I showcase my projects and tutorials.</p>
+        <p>Hi! I'm linked, a person that has made thsi website. Welcome to my page where I post bypassed things.</p>
     </section>
 
-    <section id="projects">
-        <h2>Projects</h2>
-        <p>Here are a few projects I've been working on:</p>
-        <ul>
-            <li><a href="https://github.com/yourusername/project1">Project 1</a> - Description of project 1</li>
-            <li><a href="https://github.com/yourusername/project2">Project 2</a> - Description of project 2</li>
-            <li><a href="https://github.com/yourusername/project3">Project 3</a> - Description of project 3</li>
-        </ul>
-    </section>
 
     <section id="contact">
         <h2>Contact</h2>
-        <p>If you'd like to get in touch, feel free to email me at: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
+        <p>If you have any feedback email me at: <a href="mailto:santio0302@gmail.com">santio0302@gmail.com</a></p>
     </section>
 
     <footer>
