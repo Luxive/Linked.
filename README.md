@@ -354,14 +354,6 @@ footer {
         <h1>Proxies</h1>
         <h3><a href="Soon" target="_blank">Soon</h3>
 
-<!-- Accordion with Links -->
-     <button class="accordion">\Interstellar</button>
-<div class="panel">
-            <a href="#">Soon</a>
-            <a href="#">Soon</a>
-            <a href="#">Soon</a>
-        </div>
-
         <button class="accordion">Interstellar</button>
 <div class="panel">
             <a href="#">Soon</a>
