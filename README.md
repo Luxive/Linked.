@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Twig's Utilities</title>
+    <title>LINKED!</title>
     <style>
         body {
             margin: 0;
@@ -97,10 +97,10 @@
     <div class="sidebar">
         <h2>Twig's Utilities</h2>
         <a onclick="showSection('home')">Home</a>
-        <a onclick="showSection('proxies')">Pr0x1es</a>
-        <a onclick="showSection('games')">Games Links</a>
-        <a onclick="showSection('movies')">Movies/TV+Music</a>
-        <a onclick="showSection('multipurpose')">Multi Purpose Pages</a>
+        <a onclick="showSection('proxies')">Prox1es</a>
+        <a onclick="showSection('games')">Games</a>
+        <a onclick="showSection('movies')">Movies</a>
+        <a onclick="showSection('multipurpose')">Education</a>
         <a onclick="showSection('coder')">Coder Stuff</a>
         <a onclick="showSection('credits')">Credits</a>
         <a onclick="showSection('proxy')">Make a Proxy</a>
@@ -128,7 +128,7 @@
 </div>
 
 <div id="games" class="main-content">
-        <h1>Games Links</h1>
+        <h1>Games</h1>
         <button class="accordion">Extreme math</button>
         <div class="panel">
             <a href="https://tutoring4free.org/">Extreme math Link 1</a>
@@ -161,7 +161,7 @@
 </div>
 
 <div id="movies" class="main-content">
-        <h1>Movies/TV+Music</h1>
+        <h1>Movies</h1>
         <button class="accordion">Movies</button>
         <div class="panel">
             <a href="#">Movie Link 1</a>
@@ -173,7 +173,7 @@
 </div>
 
 <div id="multipurpose" class="main-content">
-        <h1>Multi Purpose Pages</h1>
+        <h1>Educations</h1>
         <button class="accordion">Tools</button>
         <div class="panel">
             <a href="#">Tool Link 1</a>
