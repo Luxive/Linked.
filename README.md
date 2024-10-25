@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Twig's Unblockers</title>
+    <title>Linked Bypassed</title>
     <style>
         body {
             margin: 0;
@@ -85,20 +85,18 @@
     <div class="sidebar">
         <h2>Twig's Utilities</h2>
         <a href="#">Home</a>
-        <a href="#">Pr0x1es</a>
-        <a href="#">Pr0x1es if the first is blocked</a>
+        <a href="#">Prox1es</a>
         <a href="#">Games Links</a>
-        <a href="#">Movies/TV+Music</a>
-        <a href="#">Multi Purpose Pages</a>
-        <a href="#">Coder Stuff</a>
+        <a href="#">Movies</a>
+        <a href="#">Unlockers</a>
         <a href="#">Credits</a>
-        <a href="#">Make a Proxy</a>
+        <a href="#">Suggestions</a>
     </div>
 <!-- Main content -->
 <div class="main-content">
         <h1>all working links, most unblocked</h1>
-        <h3><a href="https://discord.gg/gFS7FQhTSS" target="_blank">https://discord.gg/gFS7FQhTSS</a> join or gay fr</h3>
-        <p>Updating site every other week to keep links fresh and hopefully working</p>
+        <h3><a href="Soon" target="_blank">Soon</a> Soon</h3>
+        <p>Updating this site if I find anything</p>
         <p>Hi I am linked I made this website to have bypassed things.</p>
         <p>Preferably, I would like this site to be spread as much as possible so do NOT be afraid to disseminate. I encourage you to contribute, and I might even give you credit on the site.</p>
         <p>Fill out the <a href="#">form</a> below if you have any recommendations or complaints!</p>
@@ -108,7 +106,7 @@
         </div>
 
  <footer>
-            <p>&copy; 2024 Twig's Utilities | All Rights Reserved</p>
+            <p>&copy; 2024 Linked Bypassed | All Rights Reserved</p>
         </footer>
     </div>
 
@@ -342,12 +340,10 @@ footer {
 <div class="sidebar">
         <h2>Twig's Utilities</h2>
         <a href="#">Home</a>
-        <a href="#">Pr0x1es</a>
-        <a href="#">Pr0x1es if the first is blocked</a>
+        <a href="#">Prox1es</a>
         <a href="#">Games Links</a>
-        <a href="#">Movies/TV+Music</a>
-        <a href="#">Multi Purpose Pages</a>
-        <a href="#">Coder Stuff</a>
+        <a href="#">Movies</a>
+        <a href="#">Unlocked</a>
         <a href="#">Credits</a>
         <a href="#">Make a Proxy</a>
     </div>
@@ -355,10 +351,10 @@ footer {
     <!-- Main content -->
 <div class="main-content">
         <h1>Proxies</h1>
-        <h3><a href="https://discord.gg/gFS7FQhTSS" target="_blank">https://discord.gg/gFS7FQhTSS</a> join or gay fr</h3>
+        <h3><a href="Soon" target="_blank">Soon</h3>
 
 <!-- Accordion with Links -->
-<button class="accordion">RammerHead</button>
+<button class="accordion">\Interstellar</button>
         <div class="panel">
             <a href="#">Link 1 for RammerHead</a>
             <a href="#">Link 2 for RammerHead</a>
