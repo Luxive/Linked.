@@ -98,7 +98,6 @@
         <h2>Twig's Utilities</h2>
         <a onclick="showSection('home')">Home</a>
         <a onclick="showSection('proxies')">Pr0x1es</a>
-        <a onclick="showSection('blocked')">Pr0x1es if the first is blocked</a>
         <a onclick="showSection('games')">Games Links</a>
         <a onclick="showSection('movies')">Movies/TV+Music</a>
         <a onclick="showSection('multipurpose')">Multi Purpose Pages</a>
@@ -108,7 +107,7 @@
     </div>
 
 <div id="home" class="main-content active">
-        <h1>Welcome to Twig's Utilities</h1>
+        <h1>Welcome to LINKED!</h1>
         <p>Select a category from the sidebar to get started.</p>
     </div>
 
@@ -126,16 +125,6 @@
         </div>
 </div>
 
-<div id="blocked" class="main-content">
-        <h1>Pr0x1es if the first one is blocked</h1>
-        <button class="accordion">Alternative Proxy 1</button>
-        <div class="panel">
-            <a href="#">Link 1 for Alternative Proxy 1</a>
-        </div>
-        <button class="accordion">Alternative Proxy 2</button>
-        <div class="panel">
-            <a href="#">Link 1 for Alternative Proxy 2</a>
-        </div>
 </div>
 
 <div id="games" class="main-content">
