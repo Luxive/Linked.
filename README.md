@@ -232,4 +232,3 @@ var acc = document.getElementsByClassName("accordion");
 </script>
 </body>
 </html>
-
