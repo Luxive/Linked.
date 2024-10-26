@@ -112,7 +112,7 @@
 
  <div id="proxies" class="main-content">
         <h1>Proxies</h1>
-        <button class="accordion">RammerHead</button>
+        <button class="accordion">Rammerhead</button>
         <div class="panel">
             <a href="#">Link 1 for RammerHead</a>
             <a href="#">Link 2 for RammerHead</a>
@@ -157,6 +157,7 @@
     <a href="https://sites.google.com/view/games-unblockedd/">games unblocked link 4</a>
     <a href="https://sites.google.com/site/classroom6x/unblockedgames">Classroom6x link 5</a>
     <a href="https://sites.google.com/view/games-unblocked/">games unblocked2 link 6</a>
+    <a href="https://sites.google.com/site/thegamecompilation/home?authuser=0">unblocked games world link 7</a>
         </div>
 </div>
 
