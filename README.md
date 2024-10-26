@@ -165,11 +165,9 @@
         <h1>Movies</h1>
         <button class="accordion">Movies</button>
         <div class="panel">
-            <a href="#">Movie Link 1</a>
-        </div>
-        <button class="accordion">TV Shows</button>
-        <div class="panel">
-            <a href="#">TV Show Link 1</a>
+            <a href="https://hdtoday.tv/filter?type=tv&quality=all&release_year=all&genre=3&country=all&page=46">HDTODAY link 1</a>
+            <a href="https://genesishd.tv/">HDTODAY link 2</a>
+            <a href="https://hdtoday.cc/">HDTODAY link 3</a>
         </div>
 </div>
 
@@ -177,7 +175,7 @@
         <h1>Educations</h1>
         <button class="accordion">Tools</button>
         <div class="panel">
-            <a href="#">Tool Link 1</a>
+            <a href="https://chatgpt.com/">CHATGPT</a>
         </div>
 </div>
 
