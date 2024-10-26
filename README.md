@@ -135,7 +135,7 @@
             <a href="https://extrememath.dev/">Extreme math link 3</a>
             <a href="https://simply-history.xyz/#google_vignette">Extreme math link 4</a>
             <a href="https://extrememath.org/">Extreme math link 5</a>
-            <a href="https://simple-education.xyz/#google_vignette">Extreme math link 6</a>a>
+            <a href="https://simple-education.xyz/#google_vignette">Extreme math link 6</a>
         </div>
         <button class="accordion">Minecraft</button>
         <div class="panel">
