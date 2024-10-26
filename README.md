@@ -95,7 +95,7 @@
 </head>
 <body>
     <div class="sidebar">
-        <h2>Twig's Utilities</h2>
+        <h2>LINKED!</h2>
         <a onclick="showSection('home')">Home</a>
         <a onclick="showSection('proxies')">Prox1es</a>
         <a onclick="showSection('games')">Games</a>
@@ -207,7 +207,7 @@
     </div>
 
 <footer>
-        <p>&copy; 2024 Twig's Utilities | All Rights Reserved</p>
+        <p>&copy; 2024 LINKED! | All Rights Reserved</p>
     </footer>
 
 <script>
